@@ -7,6 +7,7 @@ import select
 import socket
 import sys
 import time
+import os
 
 # Buffer size
 buffer_size = 4096
